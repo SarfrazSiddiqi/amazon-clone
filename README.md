@@ -1,5 +1,5 @@
 # amazon-clone
-
+To open website - https://clone-83c83.web.app
 
 # Installation and Setup Instructions
 
